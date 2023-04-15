@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mindfulness | Feel Better Later</title>
+	<atom:link href="http://feelbetterlater.com/category/mindfulness/feed/" rel="self" type="application/rss+xml" />
+	<link>http://feelbetterlater.com/</link>
+	<description>Act now. Feel Better.</description>
+	<lastBuildDate>Sat, 28 Nov 2020 15:13:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>http://feelbetterlater.com/wp-content/uploads/2020/06/cropped-LightBlueFavicon-32x32.png</url>
+	<title>Mindfulness | Feel Better Later</title>
+	<link>http://feelbetterlater.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gratitude</title>
+		<link>http://feelbetterlater.com/gratitude/</link>
+		
+		<dc:creator><![CDATA[Jeff Clark, MD]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 07:00:00 +0000</pubDate>
+				<category><![CDATA[Baby Steps]]></category>
+		<category><![CDATA[Gratitude]]></category>
+		<category><![CDATA[Mindfulness]]></category>
+		<guid isPermaLink="false">http://feelbetterlater.com/?p=526</guid>
+
+					<description><![CDATA[“The squeaky wheel gets the grease.” A true saying, but not always helpful. It’s important to recognize where things aren’t going well and apply deliberate pressure. At the same time, there is power in being able to recognize problems, set aside the ones that aren’t priorities to change, and find joy in the midst of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>“The squeaky wheel gets the grease.” A true saying, but not always helpful.</p>
+
+
+
+<p>It’s important to recognize where things aren’t going well and apply deliberate pressure. At the same time, there is power in being able to recognize problems, set aside the ones that aren’t priorities to change, and find joy in the midst of broken systems.&nbsp;</p>
+
+
+
+<p>Gratitude is recognizing the good things in your life&#8211;even if you feel overwhelmed. It’s a deliberate practice: find one thing that is going well. Recognize it. Give thanks to those who contributed. Set aside the negative for a moment and focus on what is good. Repeat often.&nbsp;</p>
+
+
+
+<p>Practicing gratitude won’t fix all your problems. But it might provide a little lift to your outlook. And ultimately, approaching problems with grace, gratitude, and generosity will do more for you than wallowing in anger at the things you cannot change.&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why I vote</title>
+		<link>http://feelbetterlater.com/why-i-vote/</link>
+		
+		<dc:creator><![CDATA[Jeff Clark, MD]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2020 07:00:00 +0000</pubDate>
+				<category><![CDATA[Baby Steps]]></category>
+		<category><![CDATA[Mindfulness]]></category>
+		<guid isPermaLink="false">http://feelbetterlater.com/?p=516</guid>
+
+					<description><![CDATA[A single breath is almost meaningless. If you somehow skipped it, your body would adapt. The sheer quantity of other breaths overwhelms the value of any single inhalation. And yet there is immense power in taking the time to slow down and carefully observe yourself breathing. Respiration is so core to our being that we [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>A single breath is almost meaningless. If you somehow skipped it, your body would adapt. The sheer quantity of other breaths overwhelms the value of any single inhalation.</p>
+
+
+
+<p>And yet there is immense power in taking the time to slow down and carefully observe yourself breathing. Respiration is so core to our being that we often forget that it’s even happening. Breathe consciously. Feel the cool air filling your nostrils. Watch how your chest expands; how your diaphragm falls. Hold it for a moment. Then let go. Repeat as often as you can to find a little peace. When combined with deliberate effort, these mindful moments help you make your world a little better.</p>
+
+
+
+<p>A single breath may not matter to the world. And a single vote may not either. But embracing the small amount of control that comes from something so vital and so trivial is empowering. It’s a small way to be an active participant rather than a victim of circumstance.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
