@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Self-care | Feel Better Later</title>
+	<atom:link href="https://feelbetterlater.github.io/category/self-care/feed/" rel="self" type="application/rss+xml" />
+	<link>https://feelbetterlater.github.io/</link>
+	<description>Act now. Feel Better.</description>
+	<lastBuildDate>Sat, 12 Dec 2020 20:17:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://feelbetterlater.github.io/wp-content/uploads/2020/06/cropped-LightBlueFavicon-32x32.png</url>
+	<title>Self-care | Feel Better Later</title>
+	<link>https://feelbetterlater.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Taking a day off</title>
+		<link>https://feelbetterlater.github.io/taking-a-day-off/</link>
+		
+		<dc:creator><![CDATA[Jeff Clark, MD]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 07:00:00 +0000</pubDate>
+				<category><![CDATA[Do Less]]></category>
+		<category><![CDATA[Self-care]]></category>
+		<guid isPermaLink="false">https://feelbetterlater.github.io/?p=534</guid>
+
+					<description><![CDATA[It’s ok to take a break. You’ll be better off for it.&#160; A good break re-energizes us to the task at hand. It helps our mind process information and return with new solutions. It gives us a chance to engage with the good things we have that aren’t work. Even if you’re passionate about what [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It’s ok to take a break. You’ll be better off for it.&nbsp;</p>
+
+
+
+<p>A good break re-energizes us to the task at hand. It helps our mind process information and return with new solutions. It gives us a chance to engage with the good things we have that aren’t work.</p>
+
+
+
+<p>Even if you’re passionate about what you do, stepping back from time to time is critical. And if you can’t step back, that’s a sign that something is wrong with the system. If you’ve set it up, find a way to fix it. If you report to someone else, consider all your options for change. “I want to do X so that I’m better at Y” is always a good argument. It may fall on deaf ears&#8211;and it may still be worth saying.&nbsp;</p>
+
+
+
+<p>Breaks don’t need to be long, but they’re best when they are deliberate. And when you’re done, return and do what you said you would do.&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
